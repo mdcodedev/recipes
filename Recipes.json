@@ -1,11 +1,11 @@
 [
     {
-        "name": "OK Crock Pot Roast",
+        "name": "Good Crock Pot Roast",
         "ingredients": [
             {
                 "quantity": "1",
                 "name": " beefy roast",
-                "type": "Meat"
+                "type": "Meat Stuff"
             },
             {
                 "quantity": "1 package",
